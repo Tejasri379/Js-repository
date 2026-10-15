@@ -8,5 +8,5 @@ function intro(){
 }
 
 function displayName(){
-    
+    console.log("name")
 }
